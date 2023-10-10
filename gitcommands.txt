@@ -12,3 +12,4 @@ git init
    98   git push --set-upstream origin master
    99  git status
   100  history
+divija 
